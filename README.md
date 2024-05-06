@@ -3,7 +3,7 @@
 UI Components for Android by Trendyol Android team.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
+## This is used for markup. ##
 UI Components includes several custom views for Android platform to make developers life easier!
 
 <img src="images/uic1.png" width="240"/> <img src="images/uic2.png" width="240"/>
